@@ -95,7 +95,6 @@ function flood(userAgent, cookie) {
             "https://www.bing.com/",
             "https://duckduckgo.com/",
             "https://yandex.com/",
-            "https://dstat.atlastresser.site/",
             args.target,
             "https://duckduckgo.com/?q=" + encodeURIComponent(host)
         ];
